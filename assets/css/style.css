@@ -39,7 +39,7 @@
 
 /* tabella */
 table{
-    border: 0;
+    border-collapse: collapse;
     width: 100%;
 }
 thead{
