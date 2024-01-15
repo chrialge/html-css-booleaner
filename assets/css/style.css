@@ -4,6 +4,8 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+
+/* header */
 #heading{
     background-image: url("/assets/img/pattern.png");
     background-color: #4ea0ff;
@@ -14,6 +16,8 @@
     padding: 30px 10px;
     width: 200px;
 }
+
+/* main + decoration font */
 .container{
     padding: 10px;
 }
@@ -31,7 +35,9 @@
 }
 .lista{
     padding-left: 20px; 
-}
+}  
+
+/* tabella */
 table{
     width: 100%;
 }
@@ -46,11 +52,8 @@ thead{
 .azzure{
     background-color: #b1e5f2;
 }
-.header{
-    background-color: #20a9e5;   
-    color: white;
-}
 
+/* footer */
 .news-correlate{
     background-image: url("/assets/img/graph.jpg");
     height: 200px;
