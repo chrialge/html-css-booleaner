@@ -8,6 +8,7 @@
 /* header */
 #heading{
     background-image: url("/assets/img/pattern.png");
+    background-size: 35%;
     background-color: #4ea0ff;
     width: 100%;
     height: 100px;
@@ -20,6 +21,12 @@
 /* main + decoration font */
 .container{
     padding: 10px;
+}
+h1{
+    font-size: 2.5rem;
+}
+.short{
+    font-size: 0.8rem;
 }
 .phantom{
     color: rgba(0, 0, 0, 0.5);
